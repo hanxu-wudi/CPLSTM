@@ -6,6 +6,7 @@ A Novel Continuous Peephole LSTM with Neural Controlled Differential Equations f
 ```
 conda env create -f environment.yml
 ```
+Create a virtual environment using the environment.yml file
 
 ## Training code
 ```
